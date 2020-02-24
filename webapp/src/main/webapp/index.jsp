@@ -1,10 +1,1 @@
-public class AddTwoNumbers {
-
-   public static void main(String[] args) {
-        
-      int num1 = 5, num2 = 15, sum;
-      sum = num1 + num2;
-
-      System.out.println("Sum of these numbers: "+sum);
-   }
-}
+DevOps teams that have mastered containers, and have begun deploying microservices, are swiftly moving into the future of DevOps. The future of DevOps will include increased deployment of microservices and implementation of a service mesh architecture to manage and monitor said microservices.
