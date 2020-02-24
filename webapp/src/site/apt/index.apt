@@ -1,0 +1,16 @@
+$ apt-cache policy
+Package files:
+ 100 /var/lib/dpkg/status
+     release a=now
+ 500 http://ppa.launchpad.net/webupd8team/java/ubuntu xenial/main amd64 Packages
+     release v=16.04,o=LP-PPA-webupd8team-java,a=xenial,n=xenial,l=Oracle Java (JDK) 7 / 8 / 9 
+...
+ 900 http://za.archive.ubuntu.com/ubuntu xenial-backports/main amd64 Packages
+     release v=16.04,o=Ubuntu,a=xenial-backports,n=xenial,l=Ubuntu,c=main,b=amd64
+     origin za.archive.ubuntu.com
+ 500 http://archive.canonical.com/ubuntu xenial/partner amd64 Packages
+     release v=16.04,o=Canonical,a=xenial,n=xenial,l=Partner archive,c=partner,b=amd64
+     origin archive.canonical.com
+ 990 http://za.archive.ubuntu.com/ubuntu xenial-security/multiverse i386 Packages
+     release v=16.04,o=Ubuntu,a=xenial-security,n=xenial,l=Ubuntu,c=multiverse,b=i386
+     origin za.archive.ubuntu.com
